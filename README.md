@@ -38,3 +38,10 @@ Payment Gateway: Stripe Payment Gateway
 The primary focus was on developing the backend, while a pre-designed template was used for the frontend.
 
 📢 Ideal for car rental companies looking to enhance customer experience and streamline reservation management! 🚗🚀
+
+![Image](https://github.com/user-attachments/assets/6c8ef451-b8ba-4244-920b-46390ab56be2)
+
+
+![Image](https://github.com/user-attachments/assets/77c066fa-0be8-4422-8812-256e183f626d)
+
+
