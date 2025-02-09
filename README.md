@@ -6,6 +6,7 @@ https://youtu.be/u88Ej1oKEug
 
 Date : 10 / 04 / 2024
 
+
 🔹 Project Features:
 
 ✅ Choose from a variety of available cars
@@ -24,11 +25,14 @@ Date : 10 / 04 / 2024
 
 
 🔧 Technologies Used:
+
+
 Backend: Laravel
 
 Database: MySQL
 
 Payment Gateway: Stripe Payment Gateway
+
 
 📌 Note:
 The primary focus was on developing the backend, while a pre-designed template was used for the frontend.
