@@ -2,9 +2,10 @@
 
 A comprehensive car rental system that allows users to rent cars easily online. Users can select their preferred car, specify the pickup and return locations, choose the rental duration, and add a driver if needed. The system automatically calculates the total cost, supports online payments, and enables users to track their reservations.
 
-https://youtu.be/u88Ej1oKEug
 
-Date : 10 / 02 / 2024
+📅 Date : 10 / 02 / 2024
+
+▶️ Youtube : https://youtu.be/y8Qunj3ik-Y
 
 
 🔹 Project Features:
